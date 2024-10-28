@@ -5,7 +5,7 @@ body {
 
         /* Conteneur de l'arrière-plan */
         .fixed-background {
-            background-image: url('image copy.png');
+            background-image: url('Capture d'écran 2024-10-27 143202.png');
             background-attachment: fixed; /* Garde l'arrière-plan fixe */
             background-size: 700px; /* Ajuste la taille pour couvrir tout l'écran */
             background-position: center; /* Centre l'image */
