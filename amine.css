@@ -4,7 +4,7 @@ body {
         }
 
         /* Conteneur de l'arrière-plan */
-        .fixed-background {
+        .fixed_background {
             background-image: url('im.png');
             background-attachment: fixed; /* Garde l'arrière-plan fixe */
             background-size: 700px; /* Ajuste la taille pour couvrir tout l'écran */
